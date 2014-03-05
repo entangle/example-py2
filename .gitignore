@@ -1,0 +1,7 @@
+/definitions/arithmetic
+*.pyc
+/venv
+/build
+/dist
+/*egg*
+.DS_Store

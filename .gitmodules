@@ -1,0 +1,3 @@
+[submodule "example-definitions"]
+	path = example-definitions
+	url = git@github.com:entangle/example-definitions.git
